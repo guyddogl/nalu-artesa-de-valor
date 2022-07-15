@@ -1,6 +1,6 @@
 ## Página de vendas do curso Artesã de Valor
 
-Links: <a href="https://naluprojetoscriativos.com.br/artesa-de-valor" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/artesa-de-valor" target="_Blank">Alternative</a>
+Links: <a href="https://naluprojetoscriativos.com.br/artesa-de-valor" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-de-valor" target="_Blank">Alternative</a>
 
 <hr/>
 
@@ -10,3 +10,6 @@ Links: <a href="https://naluprojetoscriativos.com.br/artesa-de-valor" target="_B
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b374b?style=for-the-badge&logo=Bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
 <hr/>
+
+### <a href="https://guyddogl.github.io/nalu-artesa-de-valor" target="_Blank">Preview</a>
+<a href="https://guyddogl.github.io/nalu-artesa-de-valor" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-de-valor/assets/img/screencapture-nalu-artesa-de-valor.webp" alt="Screenshot do Projeto" /></a>
